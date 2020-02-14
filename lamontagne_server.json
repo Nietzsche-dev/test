@@ -1,0 +1,36 @@
+{
+  "article": [
+    {
+      "id": 1,
+      "titre": "test",
+      "contenu": "test",
+      "image": "assets/images/test.jpg"
+    },
+    {
+      "titre": "Super match au michelin",
+      "contenu": "Youhou on a gagné",
+      "image": "assets/images/asm.jpg",
+      "id": 2
+    },
+    {
+      "titre": "Autre article",
+      "contenu": "Un autre article",
+      "image": "assets/images/asm.jpg",
+      "id": 3
+    },
+    {
+      "id": "4",
+      "titre": "Les chats",
+      "image": "Test",
+      "contenu": "fdgyujkiyujhgf",
+      "dateCreate": "2020-02-14T13:44:47.323Z"
+    },
+    {
+      "id": "6",
+      "titre": "nhbyg",
+      "image": "Test",
+      "contenu": "ihujiklk",
+      "dateCreate": "2020-02-14T14:13:15.673Z"
+    }
+  ]
+}
